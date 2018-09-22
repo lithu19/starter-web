@@ -1,0 +1,1 @@
+You can specify the username that SSH should send to the remote system as part of your remote's URL. Put the username, followed by an @, before the remote hostname.
